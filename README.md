@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Kodluyoruz Eğitimi kapsamında açtığım ilk repodur.
 
 
 Bu repo [Kodluyoruz](http://kodluyoruz.org) Kodluyoruz  Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adette index.html barındırıyor.
