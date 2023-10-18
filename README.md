@@ -1,20 +1,19 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# kodluyoruzfirstrepo
+The first repository I opened within the scope of the Kodluyoruz Training.
 
-
-Bu repo [Kodluyoruz](http://kodluyoruz.org) Kodluyoruz  Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adette index.html barındırıyor.
+This repository is created as the first repository within the [Kodluyoruz](http://kodluyoruz.org) training. It includes a README file and an index.html.
 
 ![Kodluyoruz](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
 ## Installation
-Öncelikle projeyi clonelayın.
+Firstly, clone the project.
 
 `https://github.com/omerfarukkpala/kodluyoruzikrepo.git`
 
 ## Usage
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+After cloning the project, open it in Visual Studio Code.
 
-Linux için:
+For Linux:
 
 ````
 cd kodluyoruzilkrepo
