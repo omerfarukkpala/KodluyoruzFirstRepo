@@ -21,7 +21,7 @@ code .
 ````
 ## Contributing
 
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+"Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
