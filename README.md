@@ -1,10 +1,10 @@
-# kodluyoruzfirstrepo
+# Kodluyoruz First Repo Starter
 ## Starter
 ## Kodluyoruz's first repository.
 
-The first repository I opened within the scope of the Kodluyoruz Training.
+### The first repository I opened within the scope of the Kodluyoruz Training.
 
-This repository is created as the first repository within the [Kodluyoruz](http://kodluyoruz.org) training. It includes a README file and an index.html.
+##### This repository is created as the first repository within the [Kodluyoruz](http://kodluyoruz.org) training. It includes a README file and an index.html.
 
 ![Kodluyoruz](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
