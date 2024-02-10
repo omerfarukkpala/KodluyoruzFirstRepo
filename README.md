@@ -9,7 +9,7 @@
 ![Kodluyoruz](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
 ## Installation
-Firstly, clone the project.
+Firstly, clone the project. 
 
 `https://github.com/omerfarukkpala/kodluyoruzikrepo.git`
 
