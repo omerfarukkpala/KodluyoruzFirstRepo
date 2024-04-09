@@ -1,5 +1,5 @@
 # Kodluyoruz First Repo Starter    
-## Starter  
+## Starter   
 ## Kodluyoruz's first repository. 
  
 ### The first repository I opened within the scope of the Kodluyoruz Training. 
