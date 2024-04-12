@@ -1,4 +1,4 @@
-# Kodluyoruz First Repo Starter    
+# Kodluyoruz First Repo Starter     
 ## Starter    
 ## Kodluyoruz's first repository. 
  
