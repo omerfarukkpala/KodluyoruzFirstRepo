@@ -2,7 +2,7 @@
 ## Starter    
 ## Kodluyoruz's first repository. 
  
-### The first repository I opened within the scope of the Kodluyoruz Training. 
+### The first repository I opened within the scope of the Kodluyoruz Training.  
 
 ##### This repository is created as the first repository within the [Kodluyoruz](http://kodluyoruz.org) training. It includes a README file and an index.html.
 
